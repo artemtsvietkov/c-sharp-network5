@@ -1,0 +1,14 @@
+C:\Users\темыч\SocketChat\bin\Debug\net9.0\SocketChat.exe
+C:\Users\темыч\SocketChat\bin\Debug\net9.0\SocketChat.deps.json
+C:\Users\темыч\SocketChat\bin\Debug\net9.0\SocketChat.runtimeconfig.json
+C:\Users\темыч\SocketChat\bin\Debug\net9.0\SocketChat.dll
+C:\Users\темыч\SocketChat\bin\Debug\net9.0\SocketChat.pdb
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.AssemblyInfoInputs.cache
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.AssemblyInfo.cs
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.dll
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\refint\SocketChat.dll
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.pdb
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\SocketChat.genruntimeconfig.cache
+C:\Users\темыч\SocketChat\obj\Debug\net9.0\ref\SocketChat.dll
