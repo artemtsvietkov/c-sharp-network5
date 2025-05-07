@@ -1,11 +1,11 @@
-﻿using System.Net.Sockets;
+using System.Net.Sockets;
 using System.Net;
 using System.Text;
 using System.Collections.Generic;
 
 var listener = new TcpListener(IPAddress.Loopback, 13001);
 listener.Start();
-Console.WriteLine("Сервер запущен. Ожидание подключений...");
+Console.WriteLine("Server is on. Awaiting for connections");
 
 var clients = new List<TcpClient>();
 
@@ -15,7 +15,7 @@ _ = Task.Run(async () =>
     {
         var client = await listener.AcceptTcpClientAsync();
         clients.Add(client);
-        Console.WriteLine("Клиент подключен.");
+        Console.WriteLine("Client is connected.");
     }
 });
 
